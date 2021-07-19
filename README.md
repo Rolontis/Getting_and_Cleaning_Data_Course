@@ -2,7 +2,7 @@
 
 Note: ***dply, tibble, tidlyr** packages need to be loaded.
 
-First, it loads all the data into R program using ***read.table()*** function.
+First, it loads all the data into R program using ***read.table()*** function.  
 Then, it renames the column names of the loaded tables using ***colnames()*** function.
 After that, it creates a merged data set using ***cbind() and rbind()*** functions.
 Then it subsets ID, activity, and columns regarding measurements on the mean and standard deviation for each measurement using ***grepl() and select()*** functions.
