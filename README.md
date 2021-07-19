@@ -16,7 +16,7 @@ Note: ***dply, tibble, tidlyr** packages need to be loaded.
  [2] "activity": Activity; one of the follwing six (6) activities   
 "WALKING" / "WALKING_UPSTAIRS" / "WALKING_DOWNSTAIRS" / "SITTING" / "STANDING" / "LAYING"    
  
-The follwing variables (Column 3 thorugh Column 88) are measurements on the mean and standard deviation for each measurment**  
+***The follwing variables (Column 3 thorugh Column 88) are measurements on the mean and standard deviation for each measurment***
   [3] "tBodyAcc_mean_X"                    "tBodyAcc_mean_Y"                     
   [5] "tBodyAcc_mean_Z"                    "tBodyAcc_std_X"                      
   [7] "tBodyAcc_std_Y"                     "tBodyAcc_std_Z"                      
