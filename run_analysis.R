@@ -1,3 +1,8 @@
+## Load packages
+library(dplyr)
+library(tibble)
+library(tidyr)
+
 ## Load all the files into R studio
 train_set <- read.table("./data/train/X_train.txt")
 train_label <- read.table("./data/train/Y_train.txt")
